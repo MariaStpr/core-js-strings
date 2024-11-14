@@ -564,8 +564,6 @@ function getCardId(value) {
   ].indexOf(value, 0);
 }
 
-console.log(getCardId('A♣'));
-
 module.exports = {
   getStringLength,
   isString,
